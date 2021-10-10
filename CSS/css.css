@@ -1,0 +1,84 @@
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+h1 {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	font-size: 250%;
+	margin: 5% 0% 2% 0%;
+}
+
+#toss-page {
+	display: block;
+	width: 50%;
+	height: auto;
+	margin: 2% 25% 0% 30%;
+}
+
+#toss-page p{
+	font-size: 200%;
+	margin: 3% 0% 2% 10%;
+}
+
+#toss-page span{
+	margin: 1% 0% 6% 12%;
+}
+
+#toss-page button{
+	font-size: 120%;
+	margin: 3% 5% 6% 10%;
+	padding: 1% 2%;
+}
+
+.center {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+}
+
+.center p{
+	text-align: center;
+}
+
+.left {
+	text-align: right;
+	display: inline-block;
+	width: 45%;
+	height: auto;
+	padding: 2%;
+}
+
+.left p{
+	padding: 0% 15% 1% 0%;
+}
+
+.right {
+	text-align: left;
+	display: inline-block;
+	width: 45%;
+	height: auto;
+	padding: 2%;
+}
+
+.right  p{
+	margin: 0% 0% 1% 15%;
+}
+
+#input {
+	display: block;
+	width: 50%;
+	height: auto;
+	margin: 2% 25% 3% 40%;
+}
+
+#input input, button{
+	display: inline-block;
+}
+
+#input button{
+	padding: 0% 1%;
+}
